@@ -1,5 +1,5 @@
 # LocalHelp
-Trabalho grupo Ideathon24
+Trabalho grupo Projeto Integrador
 turma TDS24 - 1N;
 Leonardo Barbosa
 Isabela Bastiani
