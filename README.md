@@ -1,8 +1,7 @@
 # LocalHelp
 Trabalho grupo Ideathon24
 turma TDS24 - 1N;
-Gustavo Henrique
+Leonardo Barbosa
+Isabela Bastiani
 Jeanderson Ledur
-Yago Pereira
-Mariana Santos
 Rogerio Machado
